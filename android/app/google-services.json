@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396583231129",
+    "project_id": "maak-5cc97",
+    "storage_bucket": "maak-5cc97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396583231129:android:5d71d7fc7b8761884da208",
+        "android_client_info": {
+          "package_name": "com.example.maak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396583231129-1a5qj1a66bvoqnd551dncvk1mtn3sou1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtUfa9TTBJcBA07fKsCPOinGjrM4mfRNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396583231129-1a5qj1a66bvoqnd551dncvk1mtn3sou1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
